@@ -7,7 +7,7 @@ public class App {
         System.out.println(5+10+"Alma");
         System.out.println("Alma"+(5+10));
         System.out.println("Műveletek: + - * /");
-        System.out.println("Műveletek: + < - összeadás és fűzés");
+        System.out.println("Műveletek: + <- összeadás és fűzés");
         System.out.println(Math.PI);
         System.out.println(Math.pow(5, 2)); 
         System.out.println(Math.sqrt(9));
