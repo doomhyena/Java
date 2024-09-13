@@ -11,6 +11,5 @@ public class App {
         System.out.println(Math.PI);
         System.out.println(Math.pow(5, 2)); 
         System.out.println(Math.sqrt(9));
-        // System.out.println();    
     }
 }
