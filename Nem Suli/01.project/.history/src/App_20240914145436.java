@@ -15,15 +15,6 @@ public class App {
          * boolean t = true; // igaz vagy hamis érték
         */
 
-        // Számokkal való műveltek
-
-        int a = 10;
-        int b = 5;
-        int c = a+b;
-
-        System.out.println(a/b);
-        System.out.println(a+b);
-        System.out.println(c);
         
     }
 }
