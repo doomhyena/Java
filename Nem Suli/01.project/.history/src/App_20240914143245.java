@@ -12,7 +12,6 @@ public class App {
         short e = 1;
         long f = 1; // szám típus 16 számjegyű számokig képes
         char g = 'g'; // betű változó
-        String szoveg = "Ez egy string"; // Nem lehet gy betű a változó
-        boolean t = true; // igaz vagy hamis érték
+        String e = "Ez egy string";
     }
 }
