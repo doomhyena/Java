@@ -16,11 +16,7 @@ public class App {
          * c = 8
          * System.out.println(+ (-b + Math.sqrt(b * b - 4 * a * c)) / (2 * a) + " , " + (-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a));
          */
-        String myText = "Hello";     // String       
-         //deklaráció, egy valamit egyszer lehet úgyan úgy elnevezni, tehát az S-t csak egyszer adhatom névnek
-        System.out.println(myText); 
-
-        int myNum = 5;
-        System.out.println(myNum);
+        String S = "Hello World!"; //deklaráció
+        System.out.println(S); 
     }
 }

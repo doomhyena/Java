@@ -19,8 +19,5 @@ public class App {
         String myText = "Hello";     // String       
          //deklaráció, egy valamit egyszer lehet úgyan úgy elnevezni, tehát az S-t csak egyszer adhatom névnek
         System.out.println(myText); 
-
-        int myNum = 5;
-        System.out.println(myNum);
     }
 }

@@ -10,17 +10,7 @@ public class App {
         System.out.println(Math.sqrt(Math.pow(5, 2) + 2));  // 5^2 + 2 és ez a gyök alatt
         System.out.println("5.Feladat:");
         System.out.println((-9 + Math.sqrt(9 * 9 - 4 * 1 * 8)) / (2 * 1) + " , " + (-9 - Math.sqrt(9 * 9 - 4 * 1 * 8)) / (2 * 1));
-        /*
-         * a = 1
-         * b = 9
-         * c = 8
-         * System.out.println(+ (-b + Math.sqrt(b * b - 4 * a * c)) / (2 * a) + " , " + (-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a));
-         */
-        String myText = "Hello";     // String       
-         //deklaráció, egy valamit egyszer lehet úgyan úgy elnevezni, tehát az S-t csak egyszer adhatom névnek
-        System.out.println(myText); 
-
-        int myNum = 5;
-        System.out.println(myNum);
+        //System.out.println("Gyökök: " + (-b + Math.sqrt(b * b - 4 * a * c)) / (2 * a) + " és " + (-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a));
+        System.out.println();
     }
 }
