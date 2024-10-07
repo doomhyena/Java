@@ -12,6 +12,8 @@ public class App {
             double ker = a+b+c;
             double s = ker/2;
             double ter =  Math.sqrt(s*(s-a)*(s-b)*(s-c));
+            System.out.printIn("Kerület: "+ker);
+            System.out.printIn("Terület: "+ter);
         }
     }
 }
