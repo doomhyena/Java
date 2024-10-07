@@ -14,6 +14,8 @@ public class App {
             double ter =  Math.sqrt(s*(s-a)*(s-b)*(s-c));
             System.out.printIn("Kerület: "+ker);
             System.out.printIn("Terület: "+ter);
+        } else {
+            System.out.printIn("Nincs ilyen háromszög nincs!")
         }
     }
 }
