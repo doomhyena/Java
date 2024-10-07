@@ -17,5 +17,14 @@ public class App {
         } else {
             System.out.println("Nincs ilyen háromszög nincs!")
         }
+        double r = rnd.nextInt(100 - 10 + 1) + 10; // 10-100
+        if (r != 0) {
+            double ker = 2 * r * Math.PI;
+            double ter = r * r * Math.PI;
+            System.out.println("Kör Kerület: " + ker);
+            System.out.println("Kör Terület: " + ter);
+        } else {
+            System.out.println("Nincs ilyen kör nincs!");
+        }
     }
 }
