@@ -72,6 +72,8 @@ public class App {
          * double	8 bytes	Stores fractional numbers. Sufficient for storing 15 decimal digits
          * boolean	1 bit	Stores true or false values
          * char	2 bytes	Stores a single character/letter or ASCII values
-                    */
+        */
+
+        
             }
 }
