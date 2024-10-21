@@ -15,7 +15,7 @@ public class App {
             System.out.println("Kerület: "+ker);
             System.out.println("Terület: "+ter);
         } else {
-            System.out.println("Nincs ilyen háromszög nincs!")
+            System.out.println("Nincs ilyen háromszög nincs!");
         }
         // Kör
         double r = rnd.nextInt(100 - 10 + 1) + 10; // 10-100
