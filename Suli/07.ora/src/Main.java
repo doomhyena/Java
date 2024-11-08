@@ -66,7 +66,7 @@ public class Main {
             System.out.println("A tömb második eleme páratlan! A tömb eleme: " + tomb[1]);
         }
         for (int i = 0; i < tomb.length; i++) {
-            
+
         }
     }
 }
